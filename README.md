@@ -7,7 +7,6 @@
 <p>
   <a href="#-english"><img src="https://img.shields.io/badge/🇬🇧-English-blue?style=for-the-badge" alt="English"></a>
   <a href="#-русский"><img src="https://img.shields.io/badge/🇷🇺-Русский-red?style=for-the-badge" alt="Русский"></a>
-  <a href="#-беларуская"><img src="https://img.shields.io/badge/🇧🇾-Беларуская-green?style=for-the-badge" alt="Беларуская"></a>
 </p>
 
 <p>
@@ -219,23 +218,6 @@ Orders · Clients · Inventory · Repairs · Invoices · Analytics
 
 ---
 
-## 🇧🇾 Беларуская
-
-**RemTeh.by** — студыя распрацоўкі з Беларусі 🇧🇾. Мы ствараем прафесійныя дыягнастычныя інструменты, ПЗ для сэрвісных цэнтраў і ўтыліты.
-
-> ⚠️ **Усе нашы прадукты — камерцыйнае ПЗ.** Зыходны код прадстаўлены для азнаямлення. Для выкарыстання неабходна набытая ліцэнзія.
-
-#### Катэгорыі праектаў
-
-| Катэгорыя | Апісанне | Статус |
-|---|---|---|
-| 🎮 **Геймпады** | Дыягностыка кантролераў (DualSense, Xbox, Joy-Con) | ✅ 3 прыкладанні |
-| 🖱️ **Перыферыя** | Дыягностыка мышак, навушнікаў і іншай перыферыі | 🔜 Хутка |
-| 📱 **Тэлефоны** | Дыягностыка смартфонаў і планшэтаў | 🔜 Хутка |
-| 🏢 **CRM** | CRM-сістэма для сэрвісных цэнтраў па рамонце тэхнікі | 🔜 Хутка |
-| 🛠️ **Утыліты** | Карысныя інструменты і ўтыліты | 🔜 Хутка |
-| 🤖 **Аўтаматызацыя** | Скрыпты, боты і аўтаматызацыя | 🔜 Хутка |
-
 ---
 
 <!--
@@ -251,7 +233,7 @@ Orders · Clients · Inventory · Repairs · Invoices · Analytics
 ║  HOW TO ADD A NEW CATEGORY:                              ║
 ║  1. Copy any category section (between ═══ comments)     ║
 ║  2. Change emoji + title + description                   ║
-║  3. Add to RU/BY summary tables                          ║
+║  3. Add to RU summary table                              ║
 ║                                                          ║
 ║  COLUMN WIDTHS:                                          ║
 ║  - width="33%" = 3 projects per row                      ║
