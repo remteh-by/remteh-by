@@ -10,9 +10,10 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/Platform-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Web">
-  <img src="https://img.shields.io/badge/Platform-Desktop-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Desktop">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS">
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS">
+  <img src="https://img.shields.io/badge/Windows_10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/License-Proprietary-red?style=flat-square" alt="Proprietary">
   <img src="https://komarev.com/ghpvc/?username=remteh-by&style=flat-square&color=brightgreen" alt="Profile Views">
 </p>
@@ -27,7 +28,7 @@
 
 ## 🇬🇧 English
 
-**RemTeh.by** — software studio from Belarus 🇧🇾. We build professional diagnostic tools, service center software, and utility apps.
+**RemTeh.by** — software studio from Belarus 🇧🇾. We build professional diagnostic tools, service center software, and utility apps for **Android**, **iOS**, **macOS**, and **Windows**.
 
 > ⚠️ **All our products are commercial software.** Source code is provided for review and transparency. A purchased license is required for usage.
 
@@ -201,7 +202,7 @@ Orders · Clients · Inventory · Repairs · Invoices · Analytics
 
 ## 🇷🇺 Русский
 
-**RemTeh.by** — студия разработки из Беларуси 🇧🇾. Мы создаём профессиональные диагностические инструменты, ПО для сервисных центров и утилиты.
+**RemTeh.by** — студия разработки из Беларуси 🇧🇾. Мы создаём профессиональные диагностические инструменты, ПО для сервисных центров и утилиты для **Android**, **iOS**, **macOS** и **Windows**.
 
 > ⚠️ **Все наши продукты — коммерческое ПО.** Исходный код предоставлен для ознакомления. Для использования необходима приобретённая лицензия.
 
