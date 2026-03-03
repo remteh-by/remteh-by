@@ -1,67 +1,26 @@
 <div align="center">
 
-# 🎮 RemTeh.by
+# 👋 RemTeh.by
 
-### Gamepad Testing Tools for Android
+### Software Development · Device Diagnostics · Service Tools
 
 <p>
   <a href="#-english"><img src="https://img.shields.io/badge/🇬🇧-English-blue?style=for-the-badge" alt="English"></a>
   <a href="#-русский"><img src="https://img.shields.io/badge/🇷🇺-Русский-red?style=for-the-badge" alt="Русский"></a>
   <a href="#-беларуская"><img src="https://img.shields.io/badge/🇧🇾-Беларуская-green?style=for-the-badge" alt="Беларуская"></a>
-  <a href="#-deutsch"><img src="https://img.shields.io/badge/🇩🇪-Deutsch-yellow?style=for-the-badge" alt="Deutsch"></a>
-  <a href="#-polski"><img src="https://img.shields.io/badge/🇵🇱-Polski-white?style=for-the-badge" alt="Polski"></a>
-  <a href="#-中文"><img src="https://img.shields.io/badge/🇨🇳-中文-orange?style=for-the-badge" alt="中文"></a>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="MIT">
+  <img src="https://img.shields.io/badge/Platform-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Web">
+  <img src="https://img.shields.io/badge/Platform-Desktop-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Desktop">
+  <img src="https://img.shields.io/badge/License-Proprietary-red?style=flat-square" alt="Proprietary">
   <img src="https://komarev.com/ghpvc/?username=remteh-by&style=flat-square&color=brightgreen" alt="Profile Views">
 </p>
 
----
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🔵 DualSense Tester
-
-**PlayStation 5**
-
-[![GitHub](https://img.shields.io/badge/Repo-dualsense--tester-0070D1?style=for-the-badge&logo=github)](https://github.com/remteh-by/dualsense-tester)
-
-✕ ○ □ △ • L1/R1 • L2/R2
-Options • Create • PS • Touchpad
-
-</td>
-<td align="center" width="33%">
-
-### 🟢 Xbox Tester
-
-**Xbox Series X|S**
-
-[![GitHub](https://img.shields.io/badge/Repo-xbox--tester-107C10?style=for-the-badge&logo=github)](https://github.com/remteh-by/xbox-tester)
-
-A B X Y • LB/RB • LT/RT
-Menu • View • Xbox • Share
-
-</td>
-<td align="center" width="33%">
-
-### 🔴 Joy-Con Tester
-
-**Nintendo Switch**
-
-[![GitHub](https://img.shields.io/badge/Repo-joycon--tester-E60012?style=for-the-badge&logo=github)](https://github.com/remteh-by/joycon-tester)
-
-B A Y X • L/R • ZL/ZR
-+/− • Home • Capture
-
-</td>
-</tr>
-</table>
+<p>
+  <a href="https://www.paypal.com/paypalme/remtehby"><img src="https://img.shields.io/badge/PayPal-Support_Us-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
+</p>
 
 </div>
 
@@ -69,154 +28,250 @@ B A Y X • L/R • ZL/ZR
 
 ## 🇬🇧 English
 
-### About
+**RemTeh.by** — software studio from Belarus 🇧🇾. We build professional diagnostic tools, service center software, and utility apps.
 
-**RemTeh.by** develops free Android applications for testing gamepad controllers. Each app is specifically designed for a particular controller type — with correct button names, colors, and unique features.
+> ⚠️ **All our products are commercial software.** Source code is provided for review and transparency. A purchased license is required for usage.
 
-### Features
+---
 
-| Feature | Description |
-|---|---|
-| 🕹️ **Analog Sticks** | Real-time visualization with dead zone calibration (0-30%) |
-| 🎯 **Triggers** | Precise L2/R2 (LT/RT, ZL/ZR) pressure display |
-| 🔘 **All Buttons** | Face, shoulder, D-Pad, system buttons with press animation |
-| 🔊 **Vibration Test** | Short, medium, long + custom pattern — vibrates the **gamepad itself** |
-| 📊 **Calibration** | Min/max tracking for sticks and triggers with one-tap reset |
-| ⏱ **Diagnostics** | Input latency, button hold time, press counter |
-| 🐛 **Raw Data** | All axis values for advanced debugging |
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 🎮 CATEGORY: GAMEPAD & CONTROLLERS                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-### Download
+### 🎮 Gamepad & Controller Diagnostics
 
-Go to the **Releases** section of each repository to download the APK.
+> Professional testing tools for game controllers
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 🔵 DualSense Tester
+
+**PlayStation 5**
+
+[![Repo](https://img.shields.io/badge/Repo-dualsense--tester-0070D1?style=flat-square&logo=github)](https://github.com/remteh-by/dualsense-tester)
+[![Buy](https://img.shields.io/badge/Buy-PayPal-00457C?style=flat-square&logo=paypal)](https://www.paypal.com/paypalme/remtehby)
+
+</td>
+<td align="center" width="33%">
+
+#### 🟢 Xbox Tester
+
+**Xbox Series X|S**
+
+[![Repo](https://img.shields.io/badge/Repo-xbox--tester-107C10?style=flat-square&logo=github)](https://github.com/remteh-by/xbox-tester)
+[![Buy](https://img.shields.io/badge/Buy-PayPal-00457C?style=flat-square&logo=paypal)](https://www.paypal.com/paypalme/remtehby)
+
+</td>
+<td align="center" width="33%">
+
+#### 🔴 Joy-Con Tester
+
+**Nintendo Switch**
+
+[![Repo](https://img.shields.io/badge/Repo-joycon--tester-E60012?style=flat-square&logo=github)](https://github.com/remteh-by/joycon-tester)
+[![Buy](https://img.shields.io/badge/Buy-PayPal-00457C?style=flat-square&logo=paypal)](https://www.paypal.com/paypalme/remtehby)
+
+</td>
+</tr>
+</table>
+
+**Features:** Stick visualization · Trigger pressure · Dead zone calibration · Vibration test · Latency diagnostics · Raw data
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 🖱️ CATEGORY: PERIPHERAL DIAGNOSTICS                   -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+### 🖱️ Peripheral Diagnostics
+
+> Testing tools for mice, headphones, and other peripherals
+
+<!-- Add repos here:
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 🖱️ Mouse Tester
+**Click test, DPI, polling rate, sensor diagnostics**
+
+[![Repo](https://img.shields.io/badge/Repo-mouse--tester-555?style=flat-square&logo=github)](https://github.com/remteh-by/mouse-tester)
+[![Buy](https://img.shields.io/badge/Buy-PayPal-00457C?style=flat-square&logo=paypal)](https://www.paypal.com/paypalme/remtehby)
+
+</td>
+<td align="center" width="33%">
+
+#### 🎧 Headphone Tester
+**Audio quality, microphone, surround test**
+
+[![Repo](https://img.shields.io/badge/Repo-headphone--tester-555?style=flat-square&logo=github)](https://github.com/remteh-by/headphone-tester)
+[![Buy](https://img.shields.io/badge/Buy-PayPal-00457C?style=flat-square&logo=paypal)](https://www.paypal.com/paypalme/remtehby)
+
+</td>
+</tr>
+</table>
+-->
+
+*🔜 Coming soon*
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 📱 CATEGORY: PHONE & TABLET DIAGNOSTICS               -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+### 📱 Phone & Tablet Diagnostics
+
+> Testing tools for smartphones and tablets
+
+<!-- Add repos here:
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 📱 Phone Tester
+**Screen, battery, sensors, speakers, camera diagnostics**
+
+[![Repo](https://img.shields.io/badge/Repo-phone--tester-555?style=flat-square&logo=github)](https://github.com/remteh-by/phone-tester)
+[![Buy](https://img.shields.io/badge/Buy-PayPal-00457C?style=flat-square&logo=paypal)](https://www.paypal.com/paypalme/remtehby)
+
+</td>
+</tr>
+</table>
+-->
+
+*🔜 Coming soon*
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 🏢 CATEGORY: SERVICE CENTER SOFTWARE                   -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+### 🏢 Service Center Software (CRM)
+
+> Professional CRM system for repair service centers — phones, tablets, laptops, and other devices
+
+<!-- Add repos here:
+<table>
+<tr>
+<td align="center" width="100%">
+
+#### 🏢 RemTeh CRM
+**Full-featured CRM for repair service centers**
+
+Orders · Clients · Inventory · Repairs · Invoices · Analytics
+
+[![Repo](https://img.shields.io/badge/Repo-remteh--crm-FF6B00?style=flat-square&logo=github)](https://github.com/remteh-by/remteh-crm)
+[![Buy](https://img.shields.io/badge/Buy-PayPal-00457C?style=flat-square&logo=paypal)](https://www.paypal.com/paypalme/remtehby)
+
+</td>
+</tr>
+</table>
+-->
+
+*🔜 Coming soon*
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 🛠️ CATEGORY: UTILITIES & TOOLS                        -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+### 🛠️ Utilities & Tools
+
+> Useful tools and helper utilities
+
+*🔜 Coming soon*
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 🤖 CATEGORY: AUTOMATION & BOTS                        -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+### 🤖 Automation & Bots
+
+> Scripts, bots and automation tools
+
+*🔜 Coming soon*
 
 ---
 
 ## 🇷🇺 Русский
 
-### О проекте
+**RemTeh.by** — студия разработки из Беларуси 🇧🇾. Мы создаём профессиональные диагностические инструменты, ПО для сервисных центров и утилиты.
 
-**RemTeh.by** разрабатывает бесплатные Android-приложения для тестирования игровых контроллеров. Каждое приложение специально создано для конкретного типа контроллера — с правильными названиями кнопок, цветами и уникальными особенностями.
+> ⚠️ **Все наши продукты — коммерческое ПО.** Исходный код предоставлен для ознакомления. Для использования необходима приобретённая лицензия.
 
-### Возможности
+#### Категории проектов
 
-| Функция | Описание |
-|---|---|
-| 🕹️ **Стики** | Визуализация в реальном времени с калибровкой мёртвой зоны (0-30%) |
-| 🎯 **Триггеры** | Точное отображение давления L2/R2 (LT/RT, ZL/ZR) |
-| 🔘 **Все кнопки** | Основные, плечевые, D-Pad, системные с анимацией нажатия |
-| 🔊 **Тест вибрации** | Короткая, средняя, длинная + паттерн — вибрирует сам **геймпад** |
-| 📊 **Калибровка** | Отслеживание min/max для стиков и триггеров, сброс одной кнопкой |
-| ⏱ **Диагностика** | Задержка ввода, время удержания кнопки, счётчик нажатий |
-| 🐛 **Raw Data** | Все значения осей для продвинутой отладки |
-
-### Скачать
-
-Перейдите в раздел **Releases** каждого репозитория для скачивания APK.
+| Категория | Описание | Статус |
+|---|---|---|
+| 🎮 **Геймпады** | Диагностика контроллеров (DualSense, Xbox, Joy-Con) | ✅ 3 приложения |
+| 🖱️ **Периферия** | Диагностика мышей, наушников и другой периферии | 🔜 Скоро |
+| 📱 **Телефоны** | Диагностика смартфонов и планшетов | 🔜 Скоро |
+| 🏢 **CRM** | CRM-система для сервисных центров по ремонту техники | 🔜 Скоро |
+| 🛠️ **Утилиты** | Полезные инструменты и утилиты | 🔜 Скоро |
+| 🤖 **Автоматизация** | Скрипты, боты и автоматизация | 🔜 Скоро |
 
 ---
 
 ## 🇧🇾 Беларуская
 
-### Пра праект
+**RemTeh.by** — студыя распрацоўкі з Беларусі 🇧🇾. Мы ствараем прафесійныя дыягнастычныя інструменты, ПЗ для сэрвісных цэнтраў і ўтыліты.
 
-**RemTeh.by** распрацоўвае бясплатныя Android-прыкладанні для тэставання гульнявых кантролераў. Кожнае прыкладанне спецыяльна створана для канкрэтнага тыпу кантролера — з правільнымі назвамі кнопак, колерамі і ўнікальнымі асаблівасцямі.
+> ⚠️ **Усе нашы прадукты — камерцыйнае ПЗ.** Зыходны код прадстаўлены для азнаямлення. Для выкарыстання неабходна набытая ліцэнзія.
 
-### Магчымасці
+#### Катэгорыі праектаў
 
-| Функцыя | Апісанне |
-|---|---|
-| 🕹️ **Стыкі** | Візуалізацыя ў рэальным часе з каліброўкай мёртвай зоны (0-30%) |
-| 🎯 **Трыгеры** | Дакладнае адлюстраванне ціску L2/R2 (LT/RT, ZL/ZR) |
-| 🔘 **Усе кнопкі** | Асноўныя, плечавыя, D-Pad, сістэмныя з анімацыяй націску |
-| 🔊 **Тэст вібрацыі** | Кароткая, сярэдняя, доўгая + патэрн — вібрыруе сам **геймпад** |
-| 📊 **Каліброўка** | Адсочванне min/max для стыкаў і трыгераў, скід адной кнопкай |
-| ⏱ **Дыягностыка** | Затрымка ўводу, час утрымання кнопкі, лічыльнік націскаў |
-
-### Спампаваць
-
-Перайдзіце ў раздзел **Releases** кожнага рэпазіторыя для спампоўкі APK.
+| Катэгорыя | Апісанне | Статус |
+|---|---|---|
+| 🎮 **Геймпады** | Дыягностыка кантролераў (DualSense, Xbox, Joy-Con) | ✅ 3 прыкладанні |
+| 🖱️ **Перыферыя** | Дыягностыка мышак, навушнікаў і іншай перыферыі | 🔜 Хутка |
+| 📱 **Тэлефоны** | Дыягностыка смартфонаў і планшэтаў | 🔜 Хутка |
+| 🏢 **CRM** | CRM-сістэма для сэрвісных цэнтраў па рамонце тэхнікі | 🔜 Хутка |
+| 🛠️ **Утыліты** | Карысныя інструменты і ўтыліты | 🔜 Хутка |
+| 🤖 **Аўтаматызацыя** | Скрыпты, боты і аўтаматызацыя | 🔜 Хутка |
 
 ---
 
-## 🇩🇪 Deutsch
-
-### Über das Projekt
-
-**RemTeh.by** entwickelt kostenlose Android-Anwendungen zum Testen von Gamepad-Controllern. Jede App ist speziell für einen bestimmten Controller-Typ entwickelt — mit korrekten Tastennamen, Farben und einzigartigen Funktionen.
-
-### Funktionen
-
-| Funktion | Beschreibung |
-|---|---|
-| 🕹️ **Analogsticks** | Echtzeit-Visualisierung mit Totzonen-Kalibrierung (0-30%) |
-| 🎯 **Trigger** | Präzise Druckanzeige für L2/R2 (LT/RT, ZL/ZR) |
-| 🔘 **Alle Tasten** | Face-, Schulter-, D-Pad-, Systemtasten mit Druckanimation |
-| 🔊 **Vibrationstest** | Kurz, mittel, lang + Muster — vibriert das **Gamepad selbst** |
-| 📊 **Kalibrierung** | Min/Max-Tracking für Sticks und Trigger mit Ein-Klick-Reset |
-| ⏱ **Diagnose** | Eingabeverzögerung, Tastenhaltezeit, Druckzähler |
-
-### Herunterladen
-
-Gehen Sie zum Abschnitt **Releases** jedes Repositorys, um die APK herunterzuladen.
-
----
-
-## 🇵🇱 Polski
-
-### O projekcie
-
-**RemTeh.by** tworzy darmowe aplikacje na Androida do testowania kontrolerów do gier. Każda aplikacja jest specjalnie zaprojektowana dla konkretnego typu kontrolera — z prawidłowymi nazwami przycisków, kolorami i unikalnymi funkcjami.
-
-### Funkcje
-
-| Funkcja | Opis |
-|---|---|
-| 🕹️ **Analogi** | Wizualizacja w czasie rzeczywistym z kalibracją martwej strefy (0-30%) |
-| 🎯 **Triggery** | Precyzyjne wyświetlanie nacisku L2/R2 (LT/RT, ZL/ZR) |
-| 🔘 **Wszystkie przyciski** | Główne, barkowe, D-Pad, systemowe z animacją nacisku |
-| 🔊 **Test wibracji** | Krótka, średnia, długa + wzór — wibruje sam **gamepad** |
-| 📊 **Kalibracja** | Śledzenie min/max dla analogów i triggerów, reset jednym kliknięciem |
-| ⏱ **Diagnostyka** | Opóźnienie wejścia, czas przytrzymania przycisku, licznik naciśnięć |
-
-### Pobierz
-
-Przejdź do sekcji **Releases** każdego repozytorium, aby pobrać APK.
-
----
-
-## 🇨🇳 中文
-
-### 关于项目
-
-**RemTeh.by** 开发免费的 Android 应用程序，用于测试游戏手柄控制器。每个应用程序都专为特定类型的控制器设计 — 具有正确的按钮名称、颜色和独特功能。
-
-### 功能
-
-| 功能 | 描述 |
-|---|---|
-| 🕹️ **摇杆** | 实时可视化，支持死区校准（0-30%） |
-| 🎯 **扳机** | 精确显示 L2/R2（LT/RT、ZL/ZR）压力 |
-| 🔘 **所有按钮** | 面板、肩部、十字键、系统按钮，带按压动画 |
-| 🔊 **振动测试** | 短、中、长 + 自定义模式 — 振动**手柄本身** |
-| 📊 **校准** | 摇杆和扳机的最小/最大值追踪，一键重置 |
-| ⏱ **诊断** | 输入延迟、按钮按住时间、按压计数器 |
-
-### 下载
-
-前往每个仓库的 **Releases** 部分下载 APK。
-
----
+<!--
+╔══════════════════════════════════════════════════════════╗
+║              HOW TO ADD A NEW PROJECT                    ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  1. Find the right category section                      ║
+║  2. Uncomment or add a <table> block                     ║
+║  3. Fill in: title, description, repo link, buy link     ║
+║  4. Remove "Coming soon" text                            ║
+║                                                          ║
+║  HOW TO ADD A NEW CATEGORY:                              ║
+║  1. Copy any category section (between ═══ comments)     ║
+║  2. Change emoji + title + description                   ║
+║  3. Add to RU/BY summary tables                          ║
+║                                                          ║
+║  COLUMN WIDTHS:                                          ║
+║  - width="33%" = 3 projects per row                      ║
+║  - width="50%" = 2 projects per row                      ║
+║  - width="100%" = 1 wide project card                    ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-### 📫 Contact / Контакты
+### 💳 Payment Methods / Способы оплаты
 
 <p>
-  <a href="https://github.com/remteh-by"><img src="https://img.shields.io/badge/GitHub-remteh--by-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.paypal.com/paypalme/remtehby"><img src="https://img.shields.io/badge/PayPal-remtehby-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google_Play-Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"></a>
 </p>
 
 ---
 
-<sub>Made with ❤️ in Belarus 🇧🇾</sub>
+<sub>© 2025 RemTeh.by 🇧🇾 — All rights reserved</sub>
 
 </div>
