@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 RemTeh.by
+<img src="logo.png" alt="RemTeh" width="400">
 
 ### Software Development · Device Diagnostics · Service Tools
 
@@ -19,7 +19,7 @@
 </p>
 
 <p>
-  <a href="https://www.paypal.com/paypalme/remtehby"><img src="https://img.shields.io/badge/PayPal-Support_Us-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
+  <a href="#"><img src="https://img.shields.io/badge/PayPal-Buy_Now-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
 </p>
 
 </div>
@@ -246,25 +246,11 @@ Orders · Clients · Inventory · Repairs · Invoices · Analytics
 
 <div align="center">
 
-### 💳 Payment Methods / Способы оплаты
+### 💳 Payment / Оплата
 
 <p>
-  <a href="https://www.paypal.com/paypalme/remtehby"><img src="https://img.shields.io/badge/PayPal-remtehby-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Google_Play-Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"></a>
-  <a href="#"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Microsoft_Store-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Store"></a>
+  <a href="#"><img src="https://img.shields.io/badge/PayPal-Buy_Now-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
 </p>
-
-#### 🏦 Bank Transfer / Банковский перевод
-
-| | |
-|---|---|
-| **Получатель** | ООО «РемТех Электроникс» |
-| **Адрес** | 220094, г. Минск, пр-т Рокоссовского 17/1, пом. 29 |
-| **УНП** | 193626868 |
-| **Банк** | ЗАО «Альфа-Банк» |
-| **IBAN** | BY86ALFA30122G94280010270000 |
-| **BIC/SWIFT** | ALFABY2X |
 
 ---
 
