@@ -2,6 +2,12 @@
 
 Развиваем приложения для Remote Play и наблюдаемой диагностики устройств. Репозиторий, пакет и проверка на конкретном устройстве — разные этапы: ниже указаны фактические платформы и публичные каналы.
 
+## Быстрые тесты онлайн
+
+[**Мышь: кнопки и удержание →**](https://remteh-by.github.io/Mouse-Tester/#buttons) · [**Колесо →**](https://remteh-by.github.io/Mouse-Tester/#wheel) · [**Движение →**](https://remteh-by.github.io/Mouse-Tester/#movement) · [**Рисование →**](https://remteh-by.github.io/Mouse-Tester/#sensor) · [**Отчёт →**](https://remteh-by.github.io/Mouse-Tester/#report)
+
+[**Геймпад: открыть вебдиагностику RemTeh →**](https://remteh.by/remont-gamepadov/diagnostika-gejmpada)
+
 | Проект | Назначение и платформа | Загрузка / исходники | Статус |
 |---|---|---|---|
 | **Deckivo** | PS5 Remote Play; Android ARM64, macOS Apple Silicon, подготовленная Switchroot Ubuntu ARM64 | [Сайт](https://remteh-by.github.io/remteh-remote-play/) · [Releases](https://github.com/remteh-by/remteh-remote-play/releases) · [Исходники](https://github.com/remteh-by/remteh-remote-play) | Опубликована 0.8.7 preview (Android 32, desktop 23), без физической приёмки. Для Ubuntu архив обновления не заменяет первую установку runtime |
@@ -9,7 +15,7 @@
 | **DualSense Tester** | Наблюдения Android InputDevice API, профиль DualSense | [Исходники и инструкции](https://github.com/remteh-by/dualsense-tester) · [Releases](https://github.com/remteh-by/dualsense-tester/releases) | Опубликован debug preview 1.2.0 / 3; это не обновление прежней release-установки |
 | **Xbox Tester** | Аналогичная диагностика Android, профиль Xbox | [Исходники и инструкции](https://github.com/remteh-by/xbox-tester) · [Releases](https://github.com/remteh-by/xbox-tester/releases) | Опубликован debug preview 1.2.0 / 3; прежняя release-установка требует оригинального сертификата |
 | **Joy-Con Tester** | Android, доступные оси/кнопки Joy-Con | [Исходники и инструкции](https://github.com/remteh-by/joycon-tester) · [Releases](https://github.com/remteh-by/joycon-tester/releases) | Опубликован debug preview 1.2.0 / 3; одиночный/парный режим и вибрация физически не приняты |
-| **Mouse Tester** | Веб-инструмент: кнопки, колесо, события браузера, локальная история и отчёт | [Открыть онлайн](https://remteh-by.github.io/Mouse-Tester/) · [Исходники и запуск](https://github.com/remteh-by/Mouse-Tester) | Опубликованы production ZIP и исходники 1.2.1 preview; онлайн-версия доступна без установки, ИИ не подключён. Частота браузерных событий не равна USB polling rate |
+| **Mouse Tester** | Веб-инструмент: кнопки, колесо, события браузера, локальная история и отчёт | [Открыть онлайн](https://remteh-by.github.io/Mouse-Tester/) · [Исходники и запуск](https://github.com/remteh-by/Mouse-Tester) | Опубликованы production ZIP, статический сайт и исходники 1.2.2 preview; онлайн-версия доступна без установки, ИИ не подключён. Частота браузерных событий не равна USB polling rate |
 
 Новые локальные прототипы: **RemTeh Device Lab** (общая модель наблюдений и просмотр отчётов) и **PhoneCheck Android** (приёмочная проверка телефона). Отдельный публичный релиз этих прототипов пока не заявлен. Учебный desktop-tutorial не является продуктом.
 
